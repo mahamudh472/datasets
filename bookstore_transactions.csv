@@ -1,0 +1,139 @@
+Transaction_ID,Date,Customer_ID,Customer_Name,Customer_Type,Book_Title,Author,Genre,Format,Price,Quantity,Total_Amount,Payment_Method,Promo_Code,Discount_Amount,Recommendation_Source,Inventory_Update,Loyalty_Points_Earned,Loyalty_Points_Redeemed,Store_Location
+1000,2023-01-07,C261,Gregory_Gutierrez,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,8.99,Cash,SPRING10,1.0,None,Stock_Decreased,8,0,Chicago_Downtown
+1001,2023-01-08,C206,Matthew_Caldwell,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,6.99,Mobile_Payment,KIDS20,2.0,Bestseller,Stock_Decreased,7,100,Chicago_Downtown
+1002,2023-01-12,C360,Justin_Meyer,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,12.74,Mobile_Payment,SUMMER15,2.25,Staff_Pick,Stock_Decreased,12,0,Seattle_Pike
+1003,2023-01-13,C594,Ronald_Meyer,Loyalty_Member,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,18.0,Cash,,0,Bestseller,Special_Order,18,0,Boston_Backbay
+1004,2023-01-14,C555,Amy_Hartman,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Cash,,0,Personalized,Stock_Decreased,26,0,Boston_Backbay
+1005,2023-01-20,C100,Cassandra_Jones,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Mobile_Payment,,0,None,Stock_Decreased,14,0,Boston_Backbay
+1006,2023-01-20,C573,Craig_Berger,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Credit_Card,,0,Staff_Pick,Stock_Decreased,22,0,LA_Central
+1007,2023-01-21,C350,Justin_Ochoa,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Mobile_Payment,,0,None,Special_Order,30,0,Seattle_Pike
+1008,2023-01-29,C540,Janet_Sanders,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,2,60.0,Mobile_Payment,,0,None,Stock_Decreased,60,0,LA_Central
+1009,2023-01-31,C440,Jill_Brown,New,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Debit_Card,,0,Bestseller,Stock_Decreased,26,0,Seattle_Pike
+1010,2023-01-31,C178,Tracy_Robles,Returning,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,2,29.98,Mobile_Payment,,0,Staff_Pick,Stock_Decreased,29,0,NY_Main_St
+1011,2023-02-02,C329,David_Price,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Credit_Card,,0,Staff_Pick,Stock_Decreased,9,0,Seattle_Pike
+1012,2023-02-03,C361,Tiffany_Smith,New,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,11.24,Debit_Card,WINTER25,3.75,None,Stock_Decreased,11,0,NY_Main_St
+1013,2023-02-09,C155,Charles_Parker,New,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Mobile_Payment,,0,None,Stock_Decreased,9,0,LA_Central
+1014,2023-02-10,C551,Meghan_Gomez,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,19.54,Credit_Card,SUMMER15,3.45,Staff_Pick,Stock_Decreased,19,0,Chicago_Downtown
+1015,2023-02-11,C373,Jacob_Young,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,12.69,Debit_Card,READMORE,1.8,None,Stock_Decreased,13,50,LA_Central
+1016,2023-02-12,C220,Timothy_Gray,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Debit_Card,,0,Staff_Pick,Stock_Decreased,26,0,LA_Central
+1017,2023-02-13,C530,Robert_Collins,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.49,Credit_Card,,0,Bestseller,Special_Order,14,50,Seattle_Pike
+1018,2023-02-18,C175,Raymond_Jennings,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,17.24,Mobile_Payment,WINTER25,5.75,Bestseller,Stock_Decreased,17,0,Boston_Backbay
+1019,2023-02-20,C570,Angela_Klein,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Debit_Card,,0,Bestseller,Stock_Decreased,22,0,Chicago_Downtown
+1020,2023-02-21,C374,David_Ward,New,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Credit_Card,,0,Personalized,Stock_Decreased,9,0,Seattle_Pike
+1021,2023-02-23,C299,Christina_Morrison,New,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Mobile_Payment,,0,None,Special_Order,14,0,NY_Main_St
+1022,2023-02-24,C304,Kyle_Williams,New,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Debit_Card,,0,Staff_Pick,Stock_Decreased,26,0,Chicago_Downtown
+1023,2023-02-26,C560,Tara_Williams,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Cash,,0,Bestseller,Special_Order,22,0,Chicago_Downtown
+1024,2023-02-27,C319,Todd_Strickland,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Mobile_Payment,,0,None,Stock_Decreased,22,0,LA_Central
+1025,2023-02-27,C217,Chris_Greene,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Debit_Card,,0,Staff_Pick,Stock_Decreased,22,0,LA_Central
+1026,2023-02-27,C577,Beth_Duffy,Returning,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,18.0,Credit_Card,,0,Staff_Pick,Stock_Decreased,18,0,Boston_Backbay
+1027,2023-02-28,C435,Laura_Hill,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Debit_Card,,0,None,Stock_Decreased,26,0,LA_Central
+1028,2023-03-01,C313,Christy_Russell,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,2,44.98,Cash,,0,Bestseller,Stock_Decreased,45,100,Seattle_Pike
+1029,2023-03-03,C404,James_Wilson,Loyalty_Member,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,18.0,Cash,,0,Staff_Pick,Stock_Decreased,18,0,LA_Central
+1030,2023-03-05,C482,Melissa_Strong,New,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,14.76,Mobile_Payment,BOOKLOVER,3.24,None,Stock_Decreased,14,0,Chicago_Downtown
+1031,2023-03-05,C372,Christopher_Carr,Returning,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,18.0,Credit_Card,,0,Staff_Pick,Stock_Decreased,18,0,Seattle_Pike
+1032,2023-03-11,C190,Jermaine_Soto,New,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Debit_Card,,0,None,Stock_Decreased,9,0,Seattle_Pike
+1033,2023-03-20,C494,Rhonda_Patterson,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,7.49,Debit_Card,WINTER25,2.5,Bestseller,Special_Order,7,0,NY_Main_St
+1034,2023-03-24,C358,Rebecca_Ruiz,New,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,15.3,Debit_Card,SUMMER15,2.7,None,Stock_Decreased,15,0,NY_Main_St
+1035,2023-03-26,C405,Wendy_Adkins,New,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Credit_Card,,0,None,Stock_Decreased,9,0,Chicago_Downtown
+1036,2023-03-28,C589,Elizabeth_Marsh,Returning,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,18.0,Credit_Card,,0,Staff_Pick,Stock_Decreased,18,0,LA_Central
+1037,2023-03-29,C351,Christopher_Thomas,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Debit_Card,,0,Staff_Pick,Stock_Decreased,22,0,Chicago_Downtown
+1038,2023-03-31,C504,Stephanie_Wood,Loyalty_Member,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Cash,,0,None,Stock_Decreased,30,0,Chicago_Downtown
+1039,2023-04-06,C218,Angela_Collins,New,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Debit_Card,,0,Bestseller,Stock_Decreased,14,0,Seattle_Pike
+1040,2023-04-07,C471,Benjamin_Summers,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,8.99,Mobile_Payment,,0,None,Stock_Decreased,9,100,LA_Central
+1041,2023-04-15,C420,Angelica_Williams,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,3,67.5,Cash,WINTER25,22.5,Personalized,Stock_Decreased,67,0,NY_Main_St
+1042,2023-04-17,C476,Lisa_Wilson,New,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Credit_Card,,0,None,Stock_Decreased,14,0,NY_Main_St
+1043,2023-04-24,C274,Joshua_Mitchell,New,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,24.0,Credit_Card,KIDS20,6.0,Staff_Pick,Stock_Decreased,24,0,Seattle_Pike
+1044,2023-04-25,C494,Rhonda_Patterson,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Mobile_Payment,,0,Staff_Pick,Special_Order,9,0,Chicago_Downtown
+1045,2023-04-25,C356,Cynthia_Mitchell,New,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Cash,,0,None,Special_Order,9,0,Seattle_Pike
+1046,2023-04-25,C183,Joseph_Miller,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,12.24,Credit_Card,FIRST5,0.75,Personalized,Stock_Decreased,14,200,LA_Central
+1047,2023-04-26,C281,Suzanne_Hensley,New,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Debit_Card,,0,Bestseller,Stock_Decreased,30,0,Chicago_Downtown
+1048,2023-05-02,C203,Melanie_Parsons,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Credit_Card,,0,Personalized,Stock_Decreased,26,0,Boston_Backbay
+1049,2023-05-04,C266,Jennifer_Davis,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Cash,,0,Staff_Pick,Stock_Decreased,26,0,Seattle_Pike
+1050,2023-05-06,C312,Scott_Garcia,Returning,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Cash,,0,Personalized,Stock_Decreased,14,0,Chicago_Downtown
+1051,2023-05-10,C128,Katrina_Patton,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,22.1,Mobile_Payment,SUMMER15,3.9,None,Stock_Decreased,22,0,Chicago_Downtown
+1052,2023-05-10,C486,Theresa_Brown,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,18.85,Mobile_Payment,BOOKLOVER,4.14,Staff_Pick,Stock_Decreased,18,0,NY_Main_St
+1053,2023-05-11,C402,Penny_Hayes,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,28.5,Cash,FIRST5,1.5,Personalized,Special_Order,28,0,Chicago_Downtown
+1054,2023-05-11,C183,Joseph_Miller,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Cash,,0,Staff_Pick,Stock_Decreased,9,0,LA_Central
+1055,2023-05-11,C299,Christina_Morrison,New,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,16.2,Debit_Card,SPRING10,1.8,Bestseller,Special_Order,16,0,Boston_Backbay
+1056,2023-05-12,C515,Daniel_Rodriguez,Returning,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Cash,,0,Staff_Pick,Stock_Decreased,14,0,NY_Main_St
+1057,2023-05-14,C586,Gina_Mendez,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Mobile_Payment,,0,Staff_Pick,Special_Order,22,0,Chicago_Downtown
+1058,2023-05-15,C497,Robert_Fuller,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,23.4,Cash,HEALTH10,2.6,None,Stock_Decreased,23,0,Seattle_Pike
+1059,2023-05-18,C403,Michael_Stafford,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.49,Mobile_Payment,,0,Bestseller,Stock_Decreased,22,50,LA_Central
+1060,2023-05-19,C209,Carl_Simpson,New,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,2,16.98,Credit_Card,LOYAL15,3.0,Staff_Pick,Stock_Decreased,16,0,Boston_Backbay
+1061,2023-05-23,C247,Colin_Carroll,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,2,45.98,Mobile_Payment,,0,Staff_Pick,Stock_Decreased,45,0,NY_Main_St
+1062,2023-05-23,C313,Christy_Russell,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,8.49,Cash,HEALTH10,1.0,Personalized,Stock_Decreased,8,50,NY_Main_St
+1063,2023-05-24,C464,Eric_Clay,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,20.99,Credit_Card,,0,Bestseller,Stock_Decreased,22,200,NY_Main_St
+1064,2023-05-24,C160,Mario_Mcgee,New,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,3,78.0,Credit_Card,,0,Bestseller,Stock_Decreased,78,0,NY_Main_St
+1065,2023-05-30,C398,Michael_Krueger,Loyalty_Member,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,25.5,Cash,,0,None,Special_Order,26,50,Seattle_Pike
+1066,2023-06-01,C414,Patricia_Brown,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Credit_Card,,0,Staff_Pick,Stock_Decreased,14,0,Chicago_Downtown
+1067,2023-06-02,C347,Edward_Wheeler,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.24,Credit_Card,FIRST5,0.75,None,Stock_Decreased,14,0,Boston_Backbay
+1068,2023-06-07,C367,Stephen_Castro,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Cash,,0,Personalized,Stock_Decreased,9,0,NY_Main_St
+1069,2023-06-08,C249,Daniel_Nelson,Loyalty_Member,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,22.1,Debit_Card,SUMMER15,3.9,Bestseller,Stock_Decreased,22,0,Seattle_Pike
+1070,2023-06-18,C438,Susan_Walter,Loyalty_Member,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,24.5,Credit_Card,SUMMER15,4.5,Staff_Pick,Stock_Decreased,25,100,Boston_Backbay
+1071,2023-06-24,C473,Christopher_Jimenez,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,23.4,Cash,SPRING10,2.6,Staff_Pick,Stock_Decreased,23,0,Seattle_Pike
+1072,2023-07-04,C244,Michelle_Hicks,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,7.99,Mobile_Payment,KIDS20,2.0,None,Stock_Decreased,7,0,Seattle_Pike
+1073,2023-07-06,C186,Andrea_Wilkinson,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Mobile_Payment,,0,Bestseller,Stock_Decreased,9,0,Chicago_Downtown
+1074,2023-07-07,C362,Breanna_Reynolds,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Cash,,0,Staff_Pick,Stock_Decreased,22,0,NY_Main_St
+1075,2023-07-08,C544,Rebecca_Thomas,New,Atomic Habits,James Clear,Self-Help,eBook,30.0,2,45.0,Debit_Card,WINTER25,15.0,Bestseller,Stock_Decreased,45,0,Boston_Backbay
+1076,2023-07-14,C424,Katherine_Barry,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,20.23,Cash,READMORE,2.76,Bestseller,Stock_Decreased,20,0,NY_Main_St
+1077,2023-07-16,C164,Ryan_Short,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,24.6,Cash,BOOKLOVER,5.4,Staff_Pick,Stock_Decreased,24,0,NY_Main_St
+1078,2023-07-25,C591,John_Robinson,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Cash,,0,None,Stock_Decreased,9,0,LA_Central
+1079,2023-07-25,C522,Megan_Lewis,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,20.99,Mobile_Payment,,0,Bestseller,Stock_Decreased,22,200,Boston_Backbay
+1080,2023-07-29,C473,Christopher_Jimenez,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Debit_Card,,0,Bestseller,Stock_Decreased,9,0,Chicago_Downtown
+1081,2023-07-30,C579,Brandon_Brown,Loyalty_Member,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,29.5,Cash,,0,Staff_Pick,Stock_Decreased,30,50,Seattle_Pike
+1082,2023-07-30,C338,Stephanie_Lawrence,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Credit_Card,,0,Bestseller,Stock_Decreased,26,0,Seattle_Pike
+1083,2023-07-31,C483,Carolyn_Young,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Cash,,0,None,Stock_Decreased,30,0,Boston_Backbay
+1084,2023-08-05,C554,Jessica_Schmidt,New,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Debit_Card,,0,Bestseller,Stock_Decreased,26,0,Boston_Backbay
+1085,2023-08-15,C451,Bradley_Fuller,New,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,27.0,Cash,HEALTH10,3.0,Staff_Pick,Stock_Decreased,27,0,Seattle_Pike
+1086,2023-08-15,C568,Melissa_Wells,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Debit_Card,,0,None,Stock_Decreased,14,0,Chicago_Downtown
+1087,2023-08-23,C514,Teresa_Brown,Loyalty_Member,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,2,41.64,Debit_Card,BOOKLOVER,9.36,Bestseller,Stock_Decreased,42,100,Chicago_Downtown
+1088,2023-08-28,C542,Wyatt_Griffin,New,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Debit_Card,,0,None,Special_Order,26,0,Boston_Backbay
+1089,2023-08-30,C337,Derrick_Davis,New,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Cash,,0,Bestseller,Stock_Decreased,14,0,Seattle_Pike
+1090,2023-08-31,C396,Angela_Ramos,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Debit_Card,,0,None,Stock_Decreased,9,0,Boston_Backbay
+1091,2023-09-01,C377,Ashley_Carter,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Credit_Card,,0,Personalized,Stock_Decreased,14,0,Chicago_Downtown
+1092,2023-09-09,C348,Susan_Ellis,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,2,46.8,Mobile_Payment,HEALTH10,5.2,Staff_Pick,Special_Order,46,0,Seattle_Pike
+1093,2023-09-09,C448,Wanda_Hart,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,2,19.98,Credit_Card,,0,Staff_Pick,Stock_Decreased,19,0,NY_Main_St
+1094,2023-09-10,C290,Brittany_Butler,New,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Debit_Card,,0,Bestseller,Stock_Decreased,22,0,LA_Central
+1095,2023-09-12,C279,Jessica_Page,New,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Cash,,0,Bestseller,Stock_Decreased,30,0,LA_Central
+1096,2023-09-12,C159,Kathleen_Martinez,Loyalty_Member,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Cash,,0,Personalized,Stock_Decreased,30,0,Seattle_Pike
+1097,2023-09-14,C506,Steven_Lane,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Cash,,0,Personalized,Stock_Decreased,26,0,Boston_Backbay
+1098,2023-09-18,C122,John_Sanders,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,19.69,Mobile_Payment,SPRING10,2.3,Staff_Pick,Stock_Decreased,20,100,Boston_Backbay
+1099,2023-09-20,C473,Christopher_Jimenez,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Credit_Card,,0,None,Stock_Decreased,22,0,Chicago_Downtown
+1100,2023-09-25,C382,Todd_Miller,Loyalty_Member,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,29.0,Credit_Card,,0,None,Stock_Decreased,30,100,NY_Main_St
+1101,2023-09-27,C296,Lance_Young,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Credit_Card,,0,None,Stock_Decreased,30,0,Seattle_Pike
+1102,2023-09-29,C242,Jennifer_Carlson,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Credit_Card,,0,Staff_Pick,Stock_Decreased,30,0,Seattle_Pike
+1103,2023-10-04,C255,Sally_Thompson,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Mobile_Payment,,0,Personalized,Stock_Decreased,22,0,Chicago_Downtown
+1104,2023-10-12,C349,Marie_Collins,New,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Cash,,0,Bestseller,Special_Order,14,0,Boston_Backbay
+1105,2023-10-14,C131,Dakota_Davis,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,2,29.98,Debit_Card,,0,None,Stock_Decreased,29,0,Boston_Backbay
+1106,2023-10-16,C501,Michael_Carter,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,3,78.0,Mobile_Payment,,0,Bestseller,Stock_Decreased,78,0,Chicago_Downtown
+1107,2023-10-17,C488,Seth_Gonzalez,New,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,2,29.98,Debit_Card,,0,Bestseller,Stock_Decreased,29,0,LA_Central
+1108,2023-10-17,C421,James_English,New,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Cash,,0,Staff_Pick,Stock_Decreased,30,0,LA_Central
+1109,2023-10-19,C121,Theresa_Allen,New,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Credit_Card,,0,Staff_Pick,Stock_Decreased,9,0,LA_Central
+1110,2023-10-21,C313,Christy_Russell,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,8.79,Debit_Card,READMORE,1.2,None,Stock_Decreased,8,0,LA_Central
+1111,2023-10-23,C216,Michael_Campos,Returning,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Cash,,0,Personalized,Stock_Decreased,22,0,Boston_Backbay
+1112,2023-10-28,C213,Scott_King,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Cash,,0,None,Stock_Decreased,30,0,LA_Central
+1113,2023-11-04,C591,John_Robinson,Returning,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Credit_Card,,0,Bestseller,Stock_Decreased,14,0,Boston_Backbay
+1114,2023-11-05,C403,Michael_Stafford,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,2,37.08,Credit_Card,LOYAL15,6.9,Bestseller,Stock_Decreased,39,200,NY_Main_St
+1115,2023-11-14,C379,Joseph_Townsend,New,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Cash,,0,Staff_Pick,Stock_Decreased,22,0,Boston_Backbay
+1116,2023-11-16,C360,Justin_Meyer,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,7.99,Mobile_Payment,,0,Staff_Pick,Stock_Decreased,9,200,Boston_Backbay
+1117,2023-11-18,C550,Barbara_Martinez,Loyalty_Member,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Credit_Card,,0,Personalized,Stock_Decreased,30,0,Seattle_Pike
+1118,2023-11-19,C227,Tina_Cain,Returning,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Credit_Card,,0,Bestseller,Stock_Decreased,9,0,Chicago_Downtown
+1119,2023-11-19,C408,Shawn_Williams,New,Atomic Habits,James Clear,Self-Help,eBook,30.0,3,90.0,Debit_Card,,0,None,Stock_Decreased,90,0,Seattle_Pike
+1120,2023-11-19,C383,Gregory_Perkins,Loyalty_Member,Atomic Habits,James Clear,Self-Help,Paperback,18.0,2,32.4,Debit_Card,HEALTH10,3.6,Staff_Pick,Stock_Decreased,32,0,LA_Central
+1121,2023-11-20,C370,Mary_Greene,New,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Cash,,0,Staff_Pick,Stock_Decreased,22,0,NY_Main_St
+1122,2023-11-29,C388,Matthew_Burgess,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Credit_Card,,0,Bestseller,Stock_Decreased,14,0,Seattle_Pike
+1123,2023-11-29,C378,Marvin_Davis,Returning,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,2,52.0,Credit_Card,,0,Staff_Pick,Stock_Decreased,52,0,NY_Main_St
+1124,2023-11-29,C459,Linda_Padilla,Returning,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Mobile_Payment,,0,None,Stock_Decreased,14,0,Boston_Backbay
+1125,2023-11-29,C290,Brittany_Butler,New,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,1,22.99,Credit_Card,,0,Staff_Pick,Stock_Decreased,22,0,Chicago_Downtown
+1126,2023-12-02,C238,Caleb_Mendoza,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,2,45.48,Mobile_Payment,,0,Bestseller,Stock_Decreased,45,50,NY_Main_St
+1127,2023-12-04,C523,Diana_Smith,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,2,19.98,Debit_Card,,0,None,Stock_Decreased,19,0,Boston_Backbay
+1128,2023-12-09,C325,Jason_Ortiz,Loyalty_Member,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,12.76,Cash,BOOKLOVER,3.24,Bestseller,Special_Order,14,200,Seattle_Pike
+1129,2023-12-09,C439,Jeffrey_Hart,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,Paperback,9.99,1,9.99,Debit_Card,,0,Personalized,Special_Order,9,0,Seattle_Pike
+1130,2023-12-09,C475,Jessica_Coleman,Returning,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,18.0,Debit_Card,,0,Personalized,Stock_Decreased,18,0,Chicago_Downtown
+1131,2023-12-16,C248,Jose_Edwards,Returning,Atomic Habits,James Clear,Self-Help,Paperback,18.0,1,18.0,Credit_Card,,0,Bestseller,Stock_Decreased,18,0,Seattle_Pike
+1132,2023-12-17,C551,Meghan_Gomez,Returning,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,14.99,Debit_Card,,0,None,Stock_Decreased,14,0,NY_Main_St
+1133,2023-12-18,C305,Thomas_Hutchinson,New,The Midnight Library,Matt Haig,Literary Fiction,Hardcover,14.99,1,11.99,Credit_Card,FALL20,3.0,Staff_Pick,Stock_Decreased,11,0,NY_Main_St
+1134,2023-12-20,C594,Ronald_Meyer,Loyalty_Member,The Midnight Library,Matt Haig,Literary Fiction,eBook,22.99,2,45.98,Cash,,0,Staff_Pick,Stock_Decreased,45,0,Boston_Backbay
+1135,2023-12-21,C317,Wendy_Hawkins,New,Atomic Habits,James Clear,Self-Help,Hardcover,26.0,1,26.0,Credit_Card,,0,None,Stock_Decreased,26,0,LA_Central
+1136,2023-12-23,C536,Rachael_Webb,Returning,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Cash,,0,Bestseller,Stock_Decreased,30,0,Chicago_Downtown
+1137,2023-12-24,C544,Rebecca_Thomas,New,Atomic Habits,James Clear,Self-Help,eBook,30.0,1,30.0,Debit_Card,,0,None,Stock_Decreased,30,0,NY_Main_St
